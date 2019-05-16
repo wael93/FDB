@@ -1,0 +1,25 @@
+{
+  "name": "foodapp",
+  "version": "1.0.0",
+  "description": "The applections will help to serve the people to order food on the any price the need",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qusaix/FDB.git"
+  },
+  "keywords": [
+    "food"
+  ],
+  "author": "qusai/Wale/rafat/raed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qusaix/FDB/issues"
+  },
+  "homepage": "https://github.com/Qusaix/FDB#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
